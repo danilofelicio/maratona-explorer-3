@@ -19,9 +19,9 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 ## 🔗 QR Code
-
+### Aponte a camera do celular para acessar!
 <p align="center">
-<img alt="QR Code" src=".github/QR Code.png" width="40%">
+<img alt="QR Code" src=".github/QR Code.png" width="25%">
 </p>
 
 <br>
